@@ -1,0 +1,11 @@
+__pycache__/
+checkpoints/
+data_local/
+result/
+dift/
+kubric/
+
+
+data.ink
+Untitled0.ipynb
+Untitled1.ipynb

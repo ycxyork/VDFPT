@@ -1,0 +1,3 @@
+mediapy
+git+https://github.com/google-research/kubric.git
+git+https://github.com/Tsingularity/dift.git
