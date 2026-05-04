@@ -1,4 +1,4 @@
-# TAP-Vid Feature Tracking Demo (constrcuting)
+# TAP-Vid Feature Tracking Demo (constructing)
 
 This repository contains a lightweight pipeline for extracting SVD features and evaluating point tracking on TAP-Vid style datasets. The main scripts cover feature extraction, trajectory evaluation, and visualization output.
 
@@ -37,61 +37,50 @@ python evaluate.py \
 
 The examples below are from DAVIS. Videos are shown in slow motion for better visualization.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <video src="assets/1.mp4" controls width="100%"></video>
-      <br><sub>Demo 01</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/2.mp4" controls width="100%"></video>
-      <br><sub>Demo 02</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/3.mp4" controls width="100%"></video>
-      <br><sub>Demo 03</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <video src="assets/4.mp4" controls width="100%"></video>
-      <br><sub>Demo 04</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/5.mp4" controls width="100%"></video>
-      <br><sub>Demo 05</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/6.mp4" controls width="100%"></video>
-      <br><sub>Demo 06</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <video src="assets/7.mp4" controls width="100%"></video>
-      <br><sub>Demo 07</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/8.mp4" controls width="100%"></video>
-      <br><sub>Demo 08</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/9.mp4" controls width="100%"></video>
-      <br><sub>Demo 09</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <video src="assets/10.mp4" controls width="100%"></video>
-      <br><sub>Demo 10</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/11.mp4" controls width="100%"></video>
-      <br><sub>Demo 11</sub>
-    </td>
-    <td align="center" width="33%">
-      <video src="assets/12.mp4" controls width="100%"></video>
-      <br><sub>Demo 12</sub>
-    </td>
-  </tr>
-</table>
+### Demo 01
+
+https://github.com/user-attachments/assets/8fcba820-6041-484a-bf5a-16a9c0432ff4
+
+### Demo 02
+
+https://github.com/user-attachments/assets/689b6c68-06d6-4bb3-9790-3a500a255544
+
+### Demo 03
+
+https://github.com/user-attachments/assets/a0fe0a5c-a280-45d3-ba60-76a2566ebebd
+
+### Demo 04
+
+https://github.com/user-attachments/assets/be9e80e9-62de-4066-997b-017b10a45733
+
+### Demo 05
+
+https://github.com/user-attachments/assets/afc58057-8c14-4cec-9243-b2d7afe1ff61
+
+### Demo 06
+
+https://github.com/user-attachments/assets/3272adc0-0018-4c51-90c6-0cbb1b9e40bf
+
+### Demo 07
+
+https://github.com/user-attachments/assets/f3f4e5d2-3c72-4ba0-9532-4f132676a3d0
+
+### Demo 08
+
+https://github.com/user-attachments/assets/dd934777-213c-4e90-8185-6e1f259aaf46
+
+### Demo 09
+
+https://github.com/user-attachments/assets/efa871b5-ad2c-4a35-951b-43252d9d7bf1
+
+### Demo 10
+
+https://github.com/user-attachments/assets/63cea561-0ae2-4076-b097-cb4eb670ee8d
+
+### Demo 11
+
+https://github.com/user-attachments/assets/a935a914-c18c-4510-92b2-b2ba74fe1e88
+
+### Demo 12
+
+https://github.com/user-attachments/assets/1b46dfe1-6151-43ba-849f-f4b05b3f999d
